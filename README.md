@@ -20,8 +20,7 @@ To embed an image in the README.md, just add some HTML! (markdown will render so
 
 ## Problems
 
-(Remember, you only need to complete ten of these)
-
+_Remember, you only need to complete ten of these_
 
 ### Difficulty level: medium
 
