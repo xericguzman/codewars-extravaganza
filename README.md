@@ -1,8 +1,8 @@
 # Codewars Extravaganza
 
-Start out by forking and cloning this repository.
-
 Today we'll be solving coding challenges on the CodeWars platform! Start about by making an account and setting your clan as "Code Immersives". 
+
+Start out by forking and cloning this repository.
 
 **Your challenge is to complete at least TEN of the following CodeWars problems.** 
 
