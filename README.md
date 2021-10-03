@@ -16,9 +16,9 @@ To embed an image in the README.md, just add some HTML! (markdown will render so
 
 ## Screenshots
 
-<img src="./codewars-extravaganza/code-war-one.png" />
-<img src="./codewars-extravaganza/code-war-two.png" />
-<img src="./codewars-extravaganza/code-war-three.png" />
+![katas 1] (./codewars-extravaganza/code-war-one.png)
+![katas 2] (./codewars-extravaganza/code-war-two.png)
+![katas 3] (./codewars-extravaganza/code-war-three.png)
 
 ## Problems
 
